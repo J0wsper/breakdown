@@ -49,6 +49,13 @@ Many interesting questions arise in the setting of Breakdown, most of which are 
 
 ## Communication
 
+Communication is kind of tied up with both [epistemology](#epistemology) and [ontology](#ontology).
+The theme of communication lays at the core of Breakdown: how does the presence of others influence
+our perception of the world, as well as ourselves? What are the impacts of
+[Luxor](/setting/serapis/luxor/main.md) being pretty much on its own? Furthermore, once the players
+step outside of the city's walls and they only have each other for company, how does that impact
+them?
+
 # References
 
 - [No Exit]: /https://en.wikipedia.org/wiki/No_Exit
