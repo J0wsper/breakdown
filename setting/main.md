@@ -1,6 +1,6 @@
 # Brief Pitch
 
-_*Hellraiser*_ is set on the fringe of a [dying galactic empire](./imperium/main.md). You are
+_*Breakdown*_ is set on the fringe of a [dying galactic empire](./imperium/main.md). You are
 situated on the planet of [Serapis](./serapis/main.md) in the greatest city that still remains,
 [Luxor](./serapis/luxor/main.md). To your knowledge, Serapis might be the last planet in the
 Imperium; your colony has received very little in terms of communication with the outside world. The
