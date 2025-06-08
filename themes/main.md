@@ -1,4 +1,4 @@
-# What are the Themes of Breakdown?
+# Themes
 
 Breakdown has a few key themes:
 
