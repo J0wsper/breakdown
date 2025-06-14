@@ -14,6 +14,8 @@ Breakdown has a few key themes:
   general, Breakdown is inspired by the philosophical movement of existentialism, headed by
   individuals like Sartre, Nietzsche, Dostoyevsky, and Kafka.
 
+<!-- TODO: Maybe remove this? I prefer the ontology theme. -->
+
 ## Epistemology
 
 [Epistemology] is the study of how we know things. It is also called the theory of knowledge. It is a
